@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there! I am a PhD student at the University of Southern California, working under Gaurav Sukhatme in the [Robotics Embedded Systems Laboratory](https://robotics.usc.edu/resl).
 
-### More Information
+Currently I work on research in adaptive sampling and sensor placement for applications in aqquatic robotics. Our lab group collaborates with [David Caron's lab](https://dornsife.usc.edu/labs/caron/) in monitoring harmful algae blooms in lakes and reservoirs in California.
 
-A place to include any other types of information that you'd like to include about yourself.
+Previously I've worked as a software engineer at [Meraki](https://meraki.cisco.com), and as the 2017 engineering director at [Pioneers in Engineering](https://pioneers.berkeley.edu).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[akumarag@usc.edu](mailto:akumarag@usc.edu)
