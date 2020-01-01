@@ -12,4 +12,4 @@ Previously I've worked as a software engineer at [Meraki](https://meraki.cisco.c
 
 ### Contact me
 
-[akumarag@usc.edu](mailto:akumarag@usc.edu)
+Links to my social media, published code, and resume are provided below!
