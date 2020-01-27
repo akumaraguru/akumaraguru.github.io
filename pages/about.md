@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi there! I am a PhD student at the University of Southern California, working under Gaurav Sukhatme in the [Robotics Embedded Systems Laboratory](https://robotics.usc.edu/resl). I've gotten my undergraduate degree in Electrical Engineering and Computer Science at the University of California, Berkeley.
+Hi there! I am a graduate student at the University of Southern California, working under Gaurav Sukhatme in the [Robotics Embedded Systems Laboratory](https://robotics.usc.edu/resl). I've gotten my undergraduate degree in Electrical Engineering and Computer Science at the University of California, Berkeley.
 
 Currently I work on research in adaptive sampling and motion planning with applications in aquatic robotics. Our lab group collaborates with [David Caron's lab](https://dornsife.usc.edu/labs/caron/) in monitoring harmful algae blooms in lakes and reservoirs in California.
 
